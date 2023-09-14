@@ -120,34 +120,6 @@ La conexión entre los diferentes subsistemas o componentes de un SI se realiza 
 ![Sistema_informatico](media/Sistema_informatico.png)
 
 
-
-Los **sistemas informáticos **pueden clasificarse o englobarse en al menos estas cuatro tipologías:
-
--   Sistemas de procesamiento de transacciones (**TPS**)
--   Sistema de control de procesos de negocio (**BPM**)
--   Sistemas de colaboración empresarial (**ERP**)
--   Sistemas de apoyo a la toma de decisiones (**DSS**)
-
-### Sistemas de procesamiento de transacciones (TPS)
-Los sistemas de procesamiento de transacciones **TPS** (*Transaction Processing System*) son los sistemas empresariales básicos que sirven al nivel operacional de la organización.
-
-Un sistema de procesamiento de transacciones es un sistema computarizado que realiza y registra las transacciones rutinarias diarias necesarias para el funcionamiento de la empresa. Se encuentran en el nivel más bajo de la jerarquía organizacional y soportan las actividades cotidianas del negocio.
-
-### Sistemas de control de procesos de negocio (BPM)
-
-Los Sistemas de control de procesos de negocio, conocidas también como **BPM** (*Business Process Management*) son aquellos sistemas encargados de monitorizar, controlar y gestionar cualquier proceso de industrialización.
-
-Estos sistemas monitorizan y controlan los procesos industriales o físicos, como puede ser la refinación de petróleo, generación de energía o los sistemas de producción de acero en una planta siderúrgica a través de sensores electrónicos y sistemas en tiempo real.
-
-### Sistemas de apoyo en la toma de decisiones (DSS)
-
-Un Sistema informático de apoyo a la toma de decisiones, también conocido como Sistema de soporte a la decisión o **DSS** (*Decision Support System*), básicamente es un sistema basado en computadoras diseñado con el propósito de ser usado por una gerencia o gerencia de área para ayudarlos en el proceso de tomar una decisión para resolver problemas y con ello poder diagramar las directrices para seleccionar la mejor opción o predecir los futuros escenarios para afrontar nuevos desafíos.
-
-### Sistemas de colaboración empresarial
-
-Los sistemas **ERP** (*Enterprise Resource Planning*) son uno de los más claros ejemplos de sistema informático. Los sistemas ERP, también conocidos como Sistemas de colaboración empresarial, son el tipo de sistema
-informático más utilizado por empresas alrededor del mundo, ya que le permiten a las compañías a gestionar la gran cantidad de información que circula dentro de la misma.
-
 ## El Hardware de un sistema informático
 
 >   💡 Se denomina **hardware** a todas las partes tangibles de un ordenador o computadora: sus componentes eléctricos, electrónicos, electromecánicos, así como sus periféricos asociados, cables, baterías o carcasas y cajas.
