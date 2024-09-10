@@ -1,12 +1,14 @@
 title: SOM
 lang: es
-description: Sistemas Operativos Monopuesto (1ºSOM)
-remote_theme: rundocs/jekyll-rtd-theme
+description: Sistemas Operativos Monopuesto (1ºSMR)
+
+remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
 
 translate:
+ previous: Anterior
+ Next: Siguiente
  note: info
  search: buscar
- warning: destacado
  search_docs: buscar..
  searching: buscando
  not_found: No encontrado
@@ -18,3 +20,7 @@ plugins:
   - jemoji
   - jekyll-avatar
   - jekyll-mentions
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
